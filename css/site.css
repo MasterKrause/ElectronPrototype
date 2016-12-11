@@ -1,6 +1,7 @@
 body{
-    background-image: url("../images/background.jpg");
-    background-size: contain;
+    background-image: url("../images/krakenme.png");
+    background-position-y: center;
     background-repeat: no-repeat;
-    background-position: center;
+    
+    background-color: #e4dad0
 }
